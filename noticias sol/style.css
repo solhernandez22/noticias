@@ -1,0 +1,75 @@
+body
+{background-color: rgb(132, 168, 206);
+  text-align: justify;
+  background-image: url(fondo3.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center; 
+  padding: 0px 268px ;
+  }
+
+ 
+
+
+ .jugadores{ 
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+
+
+  table, td ,th {
+  
+  border: solid black 1px;
+  border-collapse: collapse;
+  border-color: rgb(73, 73, 66);
+  padding-left: 30px;
+  width: 550px;}
+
+  table, td { background-color: rgb(250, 220, 220);  
+  }
+
+  table, th { background-color: rgb(228, 190, 20);
+
+  }
+
+
+  p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+    font-size: 20px;
+  }
+
+  h1{
+    font-size:extralargue; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+h2{
+text-align: center;
+
+}
+
+
+  .links { 
+    display: flex;
+    
+
+  }
+
+  .botonAtras{
+    margin-right: 350px;
+  }
+  .botonAdelante{
+    margin-left: 20px;
+  }
+
+
+  .cerebro { text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+    font-size: 20px;
+  }

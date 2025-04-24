@@ -1,0 +1,51 @@
+body{background-color: rgb(141, 189, 245);
+    text-align: center;
+    background-image: url(solrecorte.JPG);
+    background-attachment: fixed;
+    background-repeat:repeat;
+    background-position: center;
+    
+  }
+
+
+  .diariosol{ color: rgb(224, 184, 109);
+    background-color: rgba(73, 102, 110, 0.637);
+      font-size: 20px;
+      font-style: italic;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      border: solid black 1px;
+      border-radius: 50px;}
+
+
+  .divtitulo {background-color: rgb(206, 85, 16);
+    border-radius:50px;
+    border: solid white;}
+
+img { 
+  border-radius: 0px 80px 0px 80px;
+}
+    .divtodos {
+      
+        background-color: rgba(142, 201, 228, 0.301);
+        height: 370px;
+        width: 485px;
+      border-style:outset ;
+      border-radius: 2%;
+      padding: 20px;
+      margin: 20px; 
+      display: inline-block}
+
+
+
+      .divtodos:hover{
+      background-color: rgba(82, 169, 209, 0.767);}
+
+
+        h3{font-family: Georgia, 'Times New Roman', Times, serif;}
+    
+        .inicia {
+          background-color: rgba(245, 245, 220, 0.568);
+          border: 1px solid;
+          width: 300px;
+          justify-self: right;
+        }
